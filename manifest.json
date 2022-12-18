@@ -1,11 +1,11 @@
 {
-    "name": "blechbiegeapp",
-    "short_name": "blechbiegeapp",
+    "name": "votee",
+    "short_name": "votee",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A new wordle game demo project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
